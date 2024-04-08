@@ -1,0 +1,3 @@
+1,Anura,Damayantha,0417285547,Joensuu,,1,0,0,0,0,1,1
+2,Nikon,Mikka,0417285547,Pooro,,0,1,0,0,0,0,0
+1,Anura,Damayantha,0417285547,Joensuu,,1,0,0,0,0,1,1
